@@ -45,6 +45,7 @@ group :development do
 end
 
 group :test do
+  gem 'rspec-rails'
   gem 'rspec'
   gem 'spork'
   gem 'ZenTest'
